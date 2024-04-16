@@ -1,7 +1,6 @@
 # Aplikace: LensShare
-![Ikona 1](/icons/icon1.png)
-![Ikona 2](/icons/icon2.png)
 
+![Ikona 1](/icons/icon1.png) ![Ikona 2](/icons/icon2.png)
 
 ## Charakteristika:
 
@@ -29,6 +28,8 @@ Aplikace je určena **pro amatérské i profesionální fotografy**, kteří cht
 
 ### Vzhled:
 Design aplikace LensShare spojuje **moderní, minimalistický styl** s intuitivní navigací, nabízející uživatelům přívětivý a pohodlný zážitek. Esteticky příjemná grafika s fotografiemi a ikonami přizpůsobenými fotografickému tématu by měla oslovit uživatele. Samozřejmě musí přesně korespondovat s hlavním účelem aplikace a nesmí narušovat její účel.
+
+![Paleta barev](/paleta-barev.png) ![Pozadí](/pozadi.png)
 
 - **Struktura:** Jednoduché a čisté textury a modely vytvoří prostředí, ve kterém se uživatelé budou snadno orientovat. Aplikace je navržena s přehlednou strukturou, která usnadňuje vyhledávání, rezervaci a sdílení fotografického vybavení rozdělením do kategorií podle značky, typu a dalších parametrů.
 
