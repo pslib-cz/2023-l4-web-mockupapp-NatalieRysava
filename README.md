@@ -1,4 +1,7 @@
 # Aplikace: LensShare
+![Ikona 1](/icons/icon1.png)
+![Ikona 2](/icons/icon2.png)
+
 
 ## Charakteristika:
 
