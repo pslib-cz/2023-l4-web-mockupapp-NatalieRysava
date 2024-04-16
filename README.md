@@ -1,5 +1,7 @@
 # Aplikace: LensShare
 
+[Odkaz na můj návrh ve Figmě](https://www.figma.com/file/31iEaI7UNgtyqvNbg0O2do/MockUp-App?type=design&node-id=0%3A1&mode=design&t=sHmru1J2iZPVRPGX-1)
+
 ![Ikona 1](/icons/icon1.png)
 ![Ikona 2](/icons/icon2.png)
 
