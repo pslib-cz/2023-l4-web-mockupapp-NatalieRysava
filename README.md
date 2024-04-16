@@ -4,13 +4,17 @@
 
 LensShare je aplikace pro vypůjčování a sdílení fotografického vybavení mezi fotografy a fotoentuziasty. Umožňuje uživatelům snadněji získávat přístup k různým typům fotoaparátů, objektivů, stativů a dalšího vybavení, aniž by museli investovat do vlastního.
 
+## Cílová platforma:
+
+LensShare je navržena jako **mobilní aplikace** pro operační systémy **iOS** a **Android**, aby byla snadno dostupná a použitelná pro uživatele v pohybu, kteří potřebují rychle najít a rezervovat potřebné vybavení.
+
 ## Cílová skupina:
 
-LensShare je určena pro amatérské i profesionální fotografy, kteří chtějí využít širokou škálu fotografického vybavení bez nutnosti jej vlastnit. Aplikace je vhodná pro lidi, kteří fotografování milují, ale nemají dostatek finančních prostředků na nákup drahého vybavení, stejně jako pro ty, kteří chtějí vyzkoušet různé typy fotoaparátů nebo objektivů předtím, než se rozhodnou je zakoupit.
+Aplikace je určena **pro amatérské i profesionální fotografy**, kteří chtějí využít širokou škálu fotografického vybavení bez nutnosti jej vlastnit. Aplikace je vhodná pro lidi, kteří fotografování milují, ale nemají dostatek finančních prostředků na nákup drahého vybavení, stejně jako pro ty, kteří chtějí vyzkoušet různé typy fotoaparátů nebo objektivů předtím, než se rozhodnou je zakoupit.
 
 ## Na co je aplikace "dobrá":
 
-- **Dostupnost:** LensShare umožňuje uživatelům snadněji získat přístup k široké škále fotografického vybavení, které by jinak nebyli schopni si dovolit nebo potřebovali jen příležitostně.
+- **Dostupnost:** LensShare umožňuje uživatelům snadněji získat přístup k široké škále fotografického vybavení, které by jinak nebyli schopni si dovolit nebo potřebovali jen příležitostně. Vypůjčení je založeno na vzájemné domluvě a důvěře mezi uživateli.
 
 - **Rozmanitost:** Aplikace poskytuje uživatelům možnost vyzkoušet různé typy fotoaparátů, objektivů a dalšího vybavení, aby mohli objevit a experimentovat s různými fotografickými technikami a styly.
 
@@ -18,20 +22,20 @@ LensShare je určena pro amatérské i profesionální fotografy, kteří chtěj
 
 - **Komunitní prostředí:** Uživatelé mohou sdílet své zkušenosti s vybavením, doporučovat oblíbené položky a navzájem se podporovat a inspirativat ve svém fotografickém úsilí.
 
-## Cílová platforma:
-
-LensShare je navržena jako mobilní aplikace pro operační systémy iOS a Android, aby byla snadno dostupná a použitelná pro uživatele v pohybu, kteří potřebují rychle najít a rezervovat potřebné vybavení.
-
 ## Realizace:
 
 ### Vzhled:
+Design aplikace LensShare spojuje **moderní, minimalistický styl** s intuitivní navigací, nabízející uživatelům přívětivý a pohodlný zážitek. Esteticky příjemná grafika s fotografiemi a ikonami přizpůsobenými fotografickému tématu by měla oslovit uživatele. Samozřejmě musí přesně korespondovat s hlavním účelem aplikace a nesmí narušovat její účel.
 
-Design bude moderní, minimalistický a intuitivní, s důrazem na snadnou navigaci a přívětivý uživatelský zážitek.
+- **Struktura:** Jednoduché a čisté textury a modely vytvoří prostředí, ve kterém se uživatelé budou snadno orientovat. Aplikace je navržena s přehlednou strukturou, která usnadňuje vyhledávání, rezervaci a sdílení fotografického vybavení rozdělením do kategorií podle značky, typu a dalších parametrů.
 
-Graficky bude aplikace etesteticky příjemná a profesionální, s využitím fotografií a ikon přizpůsobených fotografickému tématu. Fotografie by měly korespondovat se vzhledem aplikace a mít zajímavý vzhled, který uživatele upoutá, ale nebude naušovat hlavní účel dané stránky.
-
-- **Struktura a UX/UI:** Prostředí aplikace bude založeno na jednoduchých a čistých texturách a modelech, aby se uživatelům lépe orientovalo a vyhledávalo. Uživatelské rozhraní bude intuitivní a snadno použitelné, s jasnými tlačítky a navigačními prvky. Aplikace by měla tedy mít přehlednou strukturu, která usnadní uživatelům vyhledávání, rezervaci a sdílení fotografického vybavení pomocí rozřazení do jednotlivých kategorí podle značky vybavení, jeho typu (zrcadlovka, bezzrcadlovka, kompakt). Všechny vizuály jsou navrženy tak, aby aplikace reflektovala potřeby uživatelů a poskytovala jim rychlý a snadný přístup ke všem jejím hlavním funkcím.
+- **UX/UI:** Intuitivní uživatelské rozhraní je doplněno jasnými tlačítky a navigačními prvky, což zajišťuje plynulý průchod aplikací. Vizuální prvky jsou pečlivě vybrány tak, aby aplikace plně reflektovala potřeby uživatelů a umožnila jim rychlý a snadný přístup ke všem funkcím.
 
 ### Informační hodnota:
+Aplikace bude obsahovat **rozsáhlou databázi dostupného fotografického vybavení**, včetně podrobných popisů, technických specifikací a uživatelských recenzí, aby uživatelé měli veškeré potřebné informace před vypůjčením.
 
-- **Obsah:** Aplikace bude obsahovat detailní informace o dostupném vybavení, včetně popisu, technických specifikací a uživatelských recenzí. Logika aplikace by měla být vyvinuta s důrazem na spolehlivost a efektivitu, aby uživatelům poskytovala plynulý a bezproblémový zážitek. Pravidla pro vypůjčení a vrácení vybavení budou jasně definovány a poskytnuty uživatelům ve formě jednoduchých a srozumitelných instrukcí. Každá klíčová kategorie bude důkladně zvážena a implementována tak, aby výsledná aplikace LensShare splňovala potřeby uživatelů a poskytovala jim skutečnou hodnotu a užitek v oblasti vypůjčování fotografického vybavení.
+- **Logika:** Aplikace by měla poskytovat spolehlivý a efektivní zážitek, zahrnující snadné vyhledávání, rychlou rezervaci a bezproblémové vrácení vybavení. K dispozici bude i komunikační kanál mezi uživateli.
+
+- **Pravidla:** Pravidla pro vypůjčení a vrácení vybavení budou jasně definovány a poskytnuty uživatelům ve formě jednoduchých a srozumitelných instrukcí, což zaručí hladký průběh transakcí a minimalizuje možné nedorozumění.
+
+- **Smysl:** Každý aspekt aplikace je pečlivě navržen tak, aby uživatelům poskytoval skutečnou hodnotu a usnadňoval jejich fotografické projekty a experimenty. LensShare se stane nezbytným nástrojem pro každého, kdo chce dosáhnout svých fotografických cílů bez investice do drahého vybavení. Každá klíčová kategorie pro rozřazení vybavení bude důkladně zvážena a implementována tak, aby výsledná aplikace splňovala potřeby uživatelů a užitek v oblasti vypůjčování fotografického vybavení.
