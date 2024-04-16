@@ -17,7 +17,7 @@ Aplikace je určena **pro amatérské i profesionální fotografy**, kteří cht
 
 ## Hodnota a přinos:
 
-- **Dostupnost:** LensShare umožňuje uživatelům snadněji získat přístup k široké škále fotografického vybavení, které by jinak nebyli schopni si dovolit nebo potřebovali jen příležitostně. Vypůjčení je založeno na vzájemné domluvě a důvěře mezi uživateli.
+- **Dostupnost:** LensShare umožňuje uživatelům snadněji získat přístup k fotografickému vybavení, které by jinak nebyli schopni si dovolit nebo potřebovali jen příležitostně. Vypůjčení je založeno na vzájemné domluvě a důvěře mezi uživateli.
 
 - **Rozmanitost:** Aplikace poskytuje uživatelům možnost vyzkoušet různé typy fotoaparátů, objektivů a dalšího vybavení, aby mohli objevit a experimentovat s různými fotografickými technikami a styly.
 
