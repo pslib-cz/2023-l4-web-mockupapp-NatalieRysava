@@ -32,12 +32,20 @@ Aplikace je určena **pro amatérské i profesionální fotografy**, kteří cht
 ### Vzhled:
 Design aplikace LensShare spojuje **moderní, minimalistický styl** s intuitivní navigací, nabízející uživatelům přívětivý a pohodlný zážitek. Esteticky příjemná grafika s fotografiemi a ikonami přizpůsobenými fotografickému tématu by měla oslovit uživatele. Samozřejmě musí přesně korespondovat s hlavním účelem aplikace a nesmí narušovat její účel.
 
+- **Barevná paleta:** Je použita atraktivní barevná paleta složená ze 2 základních barev – bílé #000000 a černé #FFFFFF, dále jsou využity primární barvy – lososová #E07B6D, šedá #AEABA6 a světle citronová #FDF4C7, které dodávají aplikaci ikonický vzhled.
+
 ![Paleta barev](/paleta-barev.png)
+
+Autentické pozadí je tvořeno gradientem z primárních barev pomocí pluginu **Mesh gradient** ve Figmě.
+
 ![Pozadí](/pozadi.png)
+![Mesh gradient](/mesh-gradient.png)
 
 - **Struktura:** Jednoduché a čisté textury a modely vytvoří prostředí, ve kterém se uživatelé budou snadno orientovat. Aplikace je navržena s přehlednou strukturou, která usnadňuje vyhledávání, rezervaci a sdílení fotografického vybavení rozdělením do kategorií podle značky, typu a dalších parametrů.
 
 - **UX/UI:** Intuitivní uživatelské rozhraní je doplněno jasnými tlačítky a navigačními prvky, což zajišťuje plynulý průchod aplikací. Vizuální prvky jsou pečlivě vybrány tak, aby aplikace plně reflektovala potřeby uživatelů a umožnila jim rychlý a snadný přístup ke všem funkcím.
+
+- **Ikony:** Ikony jsou k dispozici ve formátu SVG, aby bylo zajištěno vysoké rozlišení a konzistentní styl v celé aplikaci. Měly by být chrakteristické svými zaoblenými hranami a jednoduchostí. Skládají se vždy z jedné barvy.
 
 ### Informační hodnota:
 Aplikace bude obsahovat **rozsáhlou databázi dostupného fotografického vybavení**, včetně podrobných popisů, technických specifikací a uživatelských recenzí, aby uživatelé měli veškeré potřebné informace před vypůjčením.
