@@ -12,7 +12,7 @@ LensShare je navržena jako **mobilní aplikace** pro operační systémy **iOS*
 
 Aplikace je určena **pro amatérské i profesionální fotografy**, kteří chtějí využít širokou škálu fotografického vybavení bez nutnosti jej vlastnit. Aplikace je vhodná pro lidi, kteří fotografování milují, ale nemají dostatek finančních prostředků na nákup drahého vybavení, stejně jako pro ty, kteří chtějí vyzkoušet různé typy fotoaparátů nebo objektivů předtím, než se rozhodnou je zakoupit.
 
-## Na co je aplikace "dobrá":
+## Hodnota a přinos:
 
 - **Dostupnost:** LensShare umožňuje uživatelům snadněji získat přístup k široké škále fotografického vybavení, které by jinak nebyli schopni si dovolit nebo potřebovali jen příležitostně. Vypůjčení je založeno na vzájemné domluvě a důvěře mezi uživateli.
 
