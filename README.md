@@ -22,8 +22,6 @@ LensShare je určena pro amatérské i profesionální fotografy, kteří chtěj
 
 LensShare je navržena jako mobilní aplikace pro operační systémy iOS a Android, aby byla snadno dostupná a použitelná pro uživatele v pohybu, kteří potřebují rychle najít a rezervovat potřebné vybavení.
 
----
-
 ## Realizace:
 
 ### Vzhled:
